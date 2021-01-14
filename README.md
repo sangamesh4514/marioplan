@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+A react-redux application with firebase and firestore,the notifications tab can only run with paid membership of firebase whcih gives access to firestore triggers.
+https://marioplan-626aa.firebaseapp.com/
+https://marioplan-626aa.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
